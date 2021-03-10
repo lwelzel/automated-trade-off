@@ -1,0 +1,9 @@
+﻿Data,Closest Approch Ratio,System Efficiency [1E-5],Cost,Risk,Sustainability
+Weight,0.39,0.1,0.05,0.41,0.06
+Higher Better,1,1,0,0,1
+Analysis Function,Decreasing RTS,Linear Scaling,Decreasing RTS,Increasing RTS,Linear Scaling
+Scaling Parameter,0.2,1,0.2,0.5,1
+Boundary Type,MinMax Scores,STD Scores,Fixed Range,Fixed Range,Fixed Range
+Boundaries,"1,1.4",3,"0,1","0,0.2","0,1"
+Weight Uncertainty,0.1200000000,0.0300000000,0.0200000000,0.1700000000,0.0200000000
+Score Uncertainty,0.0000667000,0.2500000000,0.1000000000,0.2000000000,0.1000000000

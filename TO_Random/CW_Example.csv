@@ -1,0 +1,9 @@
+﻿Data,Criteria 1,Criteria 2,Criteria 3,Criteria 4
+Weight,2,3,4,0.5
+Higher Better,1,0,1,1
+Analysis Function,Linear Scaling,Increasing RTS,Decreasing RTS,S Scaling
+Scaling Parameter,1,1,1,1
+Boundary Type,MinMax Scores,Fixed Range,STD Scores,MinMax Scores
+Boundaries,,"0,4",3,
+Weight Uncertainty,0.5,0.5,0.5,0.5
+Score Uncertainty,0.5,0.5,0.5,0.5
